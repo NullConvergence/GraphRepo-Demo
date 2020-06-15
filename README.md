@@ -1,6 +1,9 @@
 # GraphRepo Demo
 This notebook contains a demo of the [GraphRepo](https://github.com/NullConvergence/GraphRepo) project.
 
+
+A screencast of this demo is available on [Youtube](https://www.youtube.com/watch?v=x1ha0fRltGI).
+
 In order to clone the project and it's submodules, use:
 
 ```
